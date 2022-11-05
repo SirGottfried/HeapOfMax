@@ -1,0 +1,3 @@
+C:\Users\Alex Dolnik\source\repos\ProjectWF\ProjectWF\Debug\ProjectWF.vcxproj.AssemblyReference.cache
+C:\Users\Alex Dolnik\source\repos\ProjectWF\ProjectWF\Debug\ProjectWF.MyForm.resources
+C:\Users\Alex Dolnik\source\repos\ProjectWF\ProjectWF\Debug\ProjectWF.vcxproj.GenerateResource.cache
